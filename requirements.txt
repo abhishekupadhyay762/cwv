@@ -1,0 +1,5 @@
+streamlit>=1.50
+pandas>=2.1
+requests>=2.31
+gspread>=6.0
+openpyxl>=3.1
